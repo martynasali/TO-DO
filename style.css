@@ -1,0 +1,28 @@
+.virsus{
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.vidurys{
+    height: 600px;
+    background-color: blueviolet;
+}
+
+.spalva{
+    background-color: coral;
+    height: 600px;
+}
+
+.plotis{
+    width: 800px;
+}
+
+#tableBody{
+    background-color: whitesmoke;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top:10px solid #dee2e6
+}
